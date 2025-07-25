@@ -10,8 +10,8 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Tableau
 
 -**Excel** : 
--Use power Query to transform the date column using locale to the correct date format.
--Load the data to excel and change the date column to the desired format.
+- Use power Query to transform the date column using locale to the correct date format.
+- Load the data to excel and change the date column to the desired format.
             
 -**SQL** : 
 - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted.
