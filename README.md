@@ -8,5 +8,10 @@ New_deaths and Cumulative_deaths.
 # Tools
 - SQL
 - Tableau
+- Excel
+
+**Excel** : Use power Query to transform the date column using locale to the correct date format.
+            Load the data to excel and change the date column to the desired format.
+            
 # Key Findings
 - The `United States` had the highest number of cumulative Covid 19 cases
