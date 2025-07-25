@@ -13,9 +13,9 @@ New_deaths and Cumulative_deaths.
 -**Excel** : Use power Query to transform the date column using locale to the correct date format.
             Load the data to excel and change the date column to the desired format.
             
--**SQL** : - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted
-           - Query Total cumulative deaths by country to determine which top 5 countries have experienced Highest amount of deaths
-           - Query Monthly trends of new cases in the `United States` in 2020 to determine the trend
+-**SQL** : - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted.
+           - Query Total cumulative deaths by country to determine which top 5 countries have experienced Highest amount of deaths.
+           - Query Monthly trends of new cases in the `United States` in 2020 to determine the trend.
            - Query yearly trend of new cases for the entire dataset
             
 # Key Findings
