@@ -6,12 +6,13 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 New_deaths and Cumulative_deaths.
 
 # Tools
+- Excel
 - SQL
 - Tableau
-- Excel
 
 **Excel** : Use power Query to transform the date column using locale to the correct date format.
             Load the data to excel and change the date column to the desired format.
+**SQL** :
             
 # Key Findings
 - The `United States` had the highest number of cumulative Covid 19 cases
