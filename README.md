@@ -21,3 +21,10 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
             
 # Key Findings
 - The `United States` had the highest number of cumulative Covid 19 cases
+
+
+
+# How to Run
+- Download the excel dataset and replicate the result of the [COVID_19 Final Excel]()
+- Connect to SQLite and run the [SQL queries]()
+- Check the Visualizations on Tableau [Here]()
