@@ -28,10 +28,10 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 
 # Files
 - Excel Dashboard
-- SQL CSV results and Queries
+- SQL CSV results and Queries(SQL_Scripts_Results)
 - Tableau Images
 
 # How to Run
 - Download the excel dataset and replicate the result of the [COVID_19 Final Excel]()
-- Connect to SQLite and run the [SQL queries]()
+- Connect to SQLite and run the [SQL queries](Scripts)
 - Check the Visualizations on Tableau [Here]()
