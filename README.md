@@ -28,7 +28,7 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 
 # Files
 - Excel Dashboard
-- SQL CSV results and Queries(SQL_Scripts_Results)
+- [SQL CSV results ](SQL_Scripts_Results) and [Queries](Scripts)
 - Tableau Images
 
 # How to Run
