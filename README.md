@@ -22,8 +22,9 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 # Key Findings
 - The `United States`,`China`,`India`,`France`,`Germany` are the top 5 ranked countries in terms of cumulative cases of Covid 19.
 - The `United States`,`Brazil`,`India`,`Russia` and `Mexico` are the top 5 in terms of cumulative deaths.
-- 
-
+- January 2022 had the highest number of new cases in the United States America.
+- The highest number of new cases '424,017,189.00` was reported in the year 2022
+- The highest number of new deaths `3,549,358` was reported in the year 2021
 
 # Files
 - Excel Dashboard
