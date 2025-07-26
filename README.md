@@ -16,7 +16,7 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 -**SQL** : 
 - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted.
 - Query Total cumulative deaths by country to determine which top 5 countries have experienced Highest amount of deaths.
-- Query Monthly trends of new cases in the `United States` in 2020 to determine the trend.
+- Query Monthly trends of new cases in the `United States` in each year to determine the trend.
 - Query yearly trend of new cases for the entire dataset
             
 # Key Findings
