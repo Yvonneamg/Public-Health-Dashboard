@@ -1,0 +1,2 @@
+--Yearly trend of new cases
+SELECT strftime('%Y',Date_reported) as months, sum(new_cases) as totalnewcases,sum(new_deaths) as totalnewdeaths from 'WHO-COVID-19-global-data' GROUP by strftime('%Y',Date_reported)

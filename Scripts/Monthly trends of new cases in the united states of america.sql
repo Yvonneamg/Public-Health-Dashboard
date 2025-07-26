@@ -1,0 +1,2 @@
+--Monthly trends of new cases in the United States of America
+SELECT strftime('%Y-%m',Date_reported) as Duration, Country, sum(New_cases) as monthlycases from 'WHO-COVID-19-global-data' WHERE Country='United States of America' GROUP by strftime('%Y-%m',Date_reported) order by monthlycases desc;
