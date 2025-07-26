@@ -20,7 +20,9 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Query yearly trend of new cases for the entire dataset
             
 # Key Findings
-- The `United States` had the highest number of cumulative Covid 19 cases
+- The `United States`,`China`,`India`,`France`,`Germany` are the top 5 ranked countries in terms of cumulative cases of Covid 19.
+- The `United States`,`Brazil`,`India`,`Russia` and `Mexico` are the top 5 in terms of cumulative deaths.
+- 
 
 
 # Files
