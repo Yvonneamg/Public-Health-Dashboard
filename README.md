@@ -42,4 +42,4 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 # How to Run
 - Download the excel dataset and replicate the result of the [COVID_19 Final Excel]()
 - Connect to SQLite and run the [SQL queries](Scripts)
-- Check the Visualizations on Tableau [Here]()
+- Check the Visualizations on Tableau [Here](https://public.tableau.com/authoring/PublicHealthDashboard_17536412324430/Worldmapoftotalcases/Public%20Health%20Dashboard#1)
