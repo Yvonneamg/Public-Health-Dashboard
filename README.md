@@ -19,8 +19,8 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Query Monthly trends of new cases in the `United States` in each year to determine the trend.
 - Query yearly trend of new cases for the entire dataset
 
-- **Tableau**:
-- Load the dataset into tableau public and extract it. Confirm the data types are loaded in their correct format for example date_reported should have date as the data type
+- **Tableau** :
+- Load the dataset into tableau public and extract it. Confirm the data types are loaded in their correct format for example date_reported should have date as the data type.
 - Create the first worksheet showing the total cases for each country on a map with an interactive date slider as a filter, Choose preferred colours.
 - Use a line chart to show the monthly trends of new cases in the USA and yearly trends of new cases and deaths worldwide
 - Use bar charts to visualize top 5 countries by new cases and deaths
