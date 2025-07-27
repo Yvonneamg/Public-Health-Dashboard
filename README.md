@@ -25,7 +25,7 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Create the first worksheet showing the total cases for each country on a map with an interactive date slider as a filter, Choose preferred colours.
 - Use a line chart to show the monthly trends of new cases in the USA and yearly trends of new cases and deaths worldwide
 - Use bar charts to visualize top 5 countries by new cases and deaths
-- 
+- Create an interactive dashboard combining all the charts. See the dashboard on Tableau public on the link below.
             
 # Key Findings
 - The `United States`,`China`,`India`,`France`,`Germany` are the top 5 ranked countries in terms of cumulative cases of Covid 19.
