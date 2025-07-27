@@ -37,7 +37,7 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 # Files
 - Excel Dashboard
 - [SQL CSV results ](SQL_Scripts_Results) and [Queries](Scripts)
-- Tableau Images
+- [Tableau Images](Visualizations/Public Health Dashboard.png)
 
 # How to Run
 - Download the excel dataset and replicate the result of the [COVID_19 Final Excel]()
