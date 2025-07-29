@@ -39,7 +39,7 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - The highest number of new deaths `3,549,358` was reported in the year 2021
 
 # Files
-- Excel Dashboard
+- [Excel Dashboard](Visualizations/PublichealthDashboardExcel.pdf)
 - [SQL CSV results ](SQL_Scripts_Results) and [Queries](Scripts)
 - [Tableau Images](Visualizations/Public%20Health%20Dashboard.png)
 
