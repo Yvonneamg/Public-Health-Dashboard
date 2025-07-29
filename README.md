@@ -13,30 +13,30 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Use power Query to transform the date column using locale to the correct date format.
 - Load the data to excel and change the date column to the desired format.
 - Create Pivot tables to display yearly trends of new cases and deaths.
-- Create pivot tables to display cumulative cases by country and display the top 5 for both cases and deaths
+- Create pivot tables to display cumulative cases by country and display the top 5 for both cases and deaths.
 - Create a worksheet with Charts summarizing all the above pivot tables.
-- Create a Dashboard showcasing the pivot table resuls and the charts
+- Create a Dashboard showcasing the pivot table results and the charts.
   
 -**SQL** : 
 - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted.
 - Query Total cumulative deaths by country to determine which top 5 countries have experienced Highest amount of deaths.
 - Query Monthly trends of new cases in the `United States` in each year to determine the trend.
-- Query yearly trend of new cases for the entire dataset
+- Query yearly trend of new cases for the entire dataset.
 
 
 -**Tableau** :
 - Load the dataset into tableau public and extract it. Confirm the data types are loaded in their correct format for example date_reported should have date as the data type.
 - Create the first worksheet showing the total cases for each country on a map with an interactive date slider as a filter, Choose preferred colours.
 - Use a line chart to show the monthly trends of new cases in the USA and yearly trends of new cases and deaths worldwide
-- Use bar charts to visualize top 5 countries by new cases and deaths
+- Use bar charts to visualize top 5 countries by new cases and deaths.
 - Create an interactive dashboard combining all the charts. See the dashboard on Tableau public on the link below.
             
 # Key Findings
 - The `United States`,`China`,`India`,`France`,`Germany` are the top 5 ranked countries in terms of cumulative cases of Covid 19.
 - The `United States`,`Brazil`,`India`,`Russia` and `Mexico` are the top 5 in terms of cumulative deaths.
 - January 2022 had the highest number of new cases in the United States America.
-- The highest number of new cases '424,017,189.00` was reported in the year 2022
-- The highest number of new deaths `3,549,358` was reported in the year 2021
+- The highest number of new cases '424,017,189.00` was reported in the year 2022.
+- The highest number of new deaths `3,549,358` was reported in the year 2021.
 
 # Files
 - [Excel Dashboard](Visualizations/PublichealthDashboardExcel.pdf)
