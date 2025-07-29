@@ -14,7 +14,9 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Load the data to excel and change the date column to the desired format.
 - Create Pivot tables to display yearly trends of new cases and deaths.
 - Create pivot tables to display cumulative cases by country and display the top 5 for both cases and deaths
-            
+- Create a worksheet with Charts summarizing all the above pivot tables.
+- Create a Dashboard showcasing the pivot table resuls and the charts
+  
 -**SQL** : 
 - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted.
 - Query Total cumulative deaths by country to determine which top 5 countries have experienced Highest amount of deaths.
