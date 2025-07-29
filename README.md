@@ -13,7 +13,7 @@ The dataset is a csv file containing `69,121 Rows` and `8 Columns` namely Date_r
 - Use power Query to transform the date column using locale to the correct date format.
 - Load the data to excel and change the date column to the desired format.
 - Create Pivot tables to display yearly trends of new cases and deaths.
-- Create pivot 
+- Create pivot tables to display cumulative cases by country and display the top 5 for both cases and deaths
             
 -**SQL** : 
 - Query Total cumulative cases by country to determine which  top 5 countries have been greatly impacted.
